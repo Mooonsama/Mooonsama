@@ -18,7 +18,6 @@ Computacional cursadas em inglês.
 |---|---|---|
 | [darkner](https://github.com/Mooonsama/darkner) | Front-end de compilador para uma linguagem própria baseada em C: gramática LALR(1) sem conflitos, erros por linha e coluna com recuperação e suíte de testes | C, Flex, Bison, Make |
 | [sqlite-vs-mysql](https://github.com/Mooonsama/sqlite-vs-mysql) | Avaliação de desempenho dos dois bancos com o mesmo gerador de carga, aplicando leis operacionais; CPU e disco medidos via APIs do Windows | Python, SQL, MySQL 8.4, SQLite |
-| [redes-complexas-entropia](https://github.com/Mooonsama/redes-complexas-entropia) | Código da IC: gerador de redes livres de escala (modelo UCM) e caminhantes aleatórios, medindo entropia de Shannon e taxa de entropia | C++, Python, NetworkX |
 | [Processador-RiscV-OAC-2](https://github.com/Mooonsama/Processador-RiscV-OAC-2) | Processador RISC-V com pipeline de 5 estágios, forwarding e detecção de hazards | Verilog |
 | [gamestore-bd-trabalho-final](https://github.com/Mooonsama/gamestore-bd-trabalho-final) | Trabalho final de Banco de Dados | SQL |
 
