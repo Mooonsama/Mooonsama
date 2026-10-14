@@ -10,7 +10,7 @@ Computacional cursadas em inglês.
 
 - 🔭 Pesquisa: simulações em C++ e análise de dados em Python (NumPy, NetworkX, Matplotlib)
 - 🛡️ Estudando: segurança da informação e cloud
-- 📫 [LinkedIn](https://www.linkedin.com/in/henrique-guimar%C3%A3es-4bba651a7) · henriquegcottalima@gmail.com
+- 📫 [LinkedIn](https://www.linkedin.com/in/henrique-guimaraes-cotta-lima) · henriquegcottalima@gmail.com
 
 ### Projetos em destaque
 
